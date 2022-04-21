@@ -47,5 +47,5 @@ Then, run the following command:
 ```
 or
 ```bash
-bash falcon-linux-install.sh
+sudo -E bash falcon-install.sh
 ```
